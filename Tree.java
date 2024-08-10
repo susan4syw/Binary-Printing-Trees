@@ -1,3 +1,10 @@
+/*
+ * Name: Susan Wu
+ * Date: 2024-8-9
+ * Project: Binary Search Tree Implementation
+ * Purpose: Defines the TreeNode class used for constructing a binary search tree.
+ *          Includes methods for inserting, removing, and searching nodes in the tree.
+ */
 // TreeNode and Tree class declarations for a binary search tree
 class TreeNode<T extends Comparable<T>> {
    TreeNode<T> leftNode; // left node
